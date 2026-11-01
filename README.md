@@ -13,3 +13,8 @@ Interactive Formula 1 analytics project built using Tableau Public.
 - **Driver Reliability & DNF Breakdown**: Failure categorization across teams.
 - **Global Race Map**: Geographic distribution of Grand Prix circuits.
 -
+
+
+
+Website for the Dashboard
+**[Click Here to View the Website of Dashboard]https://ai.studio/apps/d428194c-d3a3-4347-8573-008d24ae9449**
